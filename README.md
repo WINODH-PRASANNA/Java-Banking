@@ -1,4 +1,4 @@
-# 🏦 ATM_Project
+# 🏦 ATM Project
 
 ## 📄 Overview
 `ATM_Project.java` is a simple console-based ATM (Automated Teller Machine) simulation program written in Java. The application allows a user to perform basic banking operations such as checking their balance, depositing money, withdrawing money, and printing a receipt, after verifying a secure PIN.
